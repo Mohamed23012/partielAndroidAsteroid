@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PartielAndroidAsteroid</string>
+    <string name="Description">Decouvrez chaque jour les asteroides en approche de la terre </string>
+    <string name="Start">Commencer</string>
+    <string name="title">Asteroide Detector</string>
+    <string name="erreur_reseau">erreur reseau</string>
+    <string name="Nb_astroide">%1$d astroides</string>
+    <string name="magnitude">Magnitude : %1$s</string>
+    <string name="distance">Distance : %1$s km</string>
+    <string name="periode_orbitale">Période orbitale : %1$s</string>
+</resources>
